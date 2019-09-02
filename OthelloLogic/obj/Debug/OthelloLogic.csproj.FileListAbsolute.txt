@@ -1,0 +1,6 @@
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\OthelloLogic\bin\Debug\Ex02_Othelo.dll
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\OthelloLogic\bin\Debug\Ex02_Othelo.pdb
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\OthelloLogic\obj\Debug\OthelloLogic.csprojAssemblyReference.cache
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\OthelloLogic\obj\Debug\OthelloLogic.csproj.CoreCompileInputs.cache
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\OthelloLogic\obj\Debug\Ex02_Othelo.dll
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\OthelloLogic\obj\Debug\Ex02_Othelo.pdb

@@ -1,0 +1,13 @@
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\WindowUi\bin\Debug\WindowUi.exe
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\WindowUi\bin\Debug\WindowUi.pdb
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\WindowUi\bin\Debug\Ex02_Othelo.dll
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\WindowUi\bin\Debug\Ex02_Othelo.pdb
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\WindowUi\obj\Debug\WindowUi.csprojAssemblyReference.cache
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\WindowUi\obj\Debug\WindowUi.GameForm.resources
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\WindowUi\obj\Debug\WindowUi.GameSettingsForm.resources
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\WindowUi\obj\Debug\WindowUi.Properties.Resources.resources
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\WindowUi\obj\Debug\WindowUi.csproj.GenerateResource.cache
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\WindowUi\obj\Debug\WindowUi.csproj.CoreCompileInputs.cache
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\WindowUi\obj\Debug\WindowUi.csproj.CopyComplete
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\WindowUi\obj\Debug\WindowUi.exe
+C:\Users\asafz\source\repos\ex05\B19 Ex05 OmriCohen 206199192 AsafZalcman 312587959\WindowUi\obj\Debug\WindowUi.pdb
